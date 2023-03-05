@@ -5,6 +5,7 @@
 
  * [PikPak官网](https://mypikpak.com)
  * [PikPak官方网页版](https://drive.mypikpak.com/)
+ * [PikPak官方讨论群组](https://t.me/pikpak_userservice)
 
 ## Demo
  * [Demo](https://tjsky.github.io/pikpak/)
@@ -13,15 +14,8 @@
   * [教程](https://www.tjsky.net/?p=201)
 
 ## 对原版代码的修改
- * 增加对IDM下载功能的引导
- * 修正反代代码，支持下载反代（感谢小樱提供修正代码）
- * 增加多个反代域名
+- [x] 增加对IDM下载功能的引导
+- [x] 修正反代代码，支持下载反代（感谢小樱提供修正代码）
+- [x] 增加多个反代域名
+- [ ] aira2破解多线程提速
  
- ## 换背景图
- 如果想换背景图
- 
- 可以修改index.html文件，第27行`background-image: url();`
- 
- 在()内写上图片的网址即可，比如`background-image: url(https://www.dmoe.cc/random.php);`
- 
-![_20230207095717](https://user-images.githubusercontent.com/7272911/217128264-889dc182-4090-45bc-a7a7-7d13725cc598.png)
